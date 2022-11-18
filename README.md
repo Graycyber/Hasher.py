@@ -7,7 +7,7 @@ The current available encoding options for this script is MD5 and Base64.
 
 ## How to use the Hasher.py:
 - Download Hahser.py code from this github repository.
-- On Linux add execution permissions to the script using `chmod +x hasher.py`
+- On Linux, add execution permissions to the script using `chmod +x hasher.py`
 - Run the script `./hasher.py` and begin!!
 
 ```ad-note
